@@ -51,16 +51,16 @@ I focus on building technology that respects user data while mastering the funda
 
 <div align="center">
   <a href="https://github.com/omsingh02">
-    <img src="https://github-readme-stats.vercel.app/api?username=omsingh02&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Om's Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omsingh02&show_icons=true&theme=tokyonight&hide_border=true&v=fix2026" alt="Om's Stats" />
   </a>
   
   <a href="https://github.com/omsingh02">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsingh02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omsingh02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=fix2026" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=omsingh02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=omsingh02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=fix2026" alt="Streak Stats" />
 </div>
 
 <div align="center">
