@@ -51,19 +51,17 @@ I focus on building technology that respects user data while mastering the funda
 
 <div align="center">
   <a href="https://github.com/omsingh02">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=omsingh02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Om's Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsingh02&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=omsingh02&show_icons=true&theme=tokyonight&hide_border=true" alt="Om's Stats" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsingh02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsingh02&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=omsingh02&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
----
-
 <div align="center">
+  <br />
   <p><i>"Building technology that respects users and their data."</i></p>
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/omsingh02/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=omsingh02&style=flat-square&color=268bd2&label=Profile+Views" alt="Visitor Count" />
 </div>
