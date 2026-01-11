@@ -18,23 +18,19 @@ jobs:
           base: header, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # 1. ISO Calendar (Replaces Streak Stats)
+          # --- VISUALS (These are working perfectly) ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # 2. Languages (Reliable)
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           
-          # 3. Stars (Reliable)
           plugin_stars: yes
           plugin_stars_limit: 4
           
-          # 4. Activity (LITE MODE - Prevents Timeouts)
-          plugin_activity: yes
-          plugin_activity_limit: 3
-          plugin_activity_days: 0    # 0 = only show recent events, no history scan
-          plugin_activity_filter: all
+          # --- REMOVED CRASHING PLUGINS ---
+          # plugin_activity: no  <-- This was causing the "Unexpected Error"
+          # plugin_achievements: no <-- This was hitting API limits
