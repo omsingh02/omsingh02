@@ -60,7 +60,9 @@ I focus on building technology that respects user data while mastering the funda
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=omsingh02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=fix2026" alt="Streak Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=omsingh02&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="Trophies" />
+  </a>
 </div>
 
 <div align="center">
