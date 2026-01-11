@@ -2,7 +2,6 @@ name: Metrics
 on:
   # Schedule updates (every 24 hours)
   schedule: [{cron: "0 0 * * *"}]
-  # Allow manual trigger
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
@@ -14,39 +13,35 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: omsingh02
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # Fix: Removed invalid 'config_theme' input. 
-          # The Classic template automatically adapts to Dark Mode on GitHub.
+          # 1. FIXED ACTIVITIES (Reduced load to prevent timeout)
+          plugin_activity: yes
+          plugin_activity_limit: 3
+          plugin_activity_days: 14
+          plugin_activity_filter: all
           
-          # Language Stats
+          # 2. FIXED ACHIEVEMENTS (Disabled secrets to prevent permission errors)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: no
+          plugin_achievements_threshold: C
+          
+          # 3. OTHER PLUGINS
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
           
-          # Isometric Calendar (The 3D Commit Graph)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # Achievements (Trophies) - Adjusted to be more stable
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          
-          # Recent Activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          
-          # Recently Starred Repos
           plugin_stars: yes
           plugin_stars_limit: 4
