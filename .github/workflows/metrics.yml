@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: omsingh02
           template: classic
-          base: header, community, repositories, metadata
+          base: metadata
           config_timezone: Asia/Kolkata
           
           # --- VISUALS (These are working perfectly) ---
@@ -29,8 +29,4 @@ jobs:
           plugin_languages_colors: github
           
           plugin_stars: yes
-          plugin_stars_limit: 4
-          
-          # --- REMOVED CRASHING PLUGINS ---
-          # plugin_activity: no  <-- This was causing the "Unexpected Error"
-          # plugin_achievements: no <-- This was hitting API limits
+          plugin_stars_limit: 2

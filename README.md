@@ -55,9 +55,9 @@ I focus on building technology that respects user data while mastering the funda
   </a>
 </div>
 
+<br />
+
 <div align="center">
-  <br />
-  
   <img src="https://img.shields.io/badge/Achievements-Unlocked-ff0055?style=for-the-badge&logo=github&logoColor=white" alt="Achievements" />
   <br />
   <img src="https://img.shields.io/badge/Pull%20Shark-x2-4c1?style=flat-square&logo=github" />
