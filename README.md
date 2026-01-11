@@ -51,22 +51,24 @@ I focus on building technology that respects user data while mastering the funda
 
 <div align="center">
   <a href="https://github.com/omsingh02">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omsingh02&show_icons=true&theme=tokyonight&hide_border=true&v=fix2026" alt="Om's Stats" />
-  </a>
-  
-  <a href="https://github.com/omsingh02">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omsingh02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=fix2026" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omsingh02&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="Trophies" />
+    <img src="https://github.com/omsingh02/omsingh02/blob/main/github-metrics.svg" alt="Om's GitHub Metrics" width="100%">
   </a>
 </div>
 
 <div align="center">
   <br />
+  
+  <img src="https://img.shields.io/badge/Achievements-Unlocked-ff0055?style=for-the-badge&logo=github&logoColor=white" alt="Achievements" />
+  <br />
+  
+  <img src="https://img.shields.io/badge/Pull%20Shark-x2-4c1?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/YOLO-Committer-yellow?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Quickdraw-Smasher-critical?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=flat-square&logo=open-source-initiative" />
+
+  <br /><br />
+  
   <p><i>"Building technology that respects users and their data."</i></p>
+  
   <img src="https://komarev.com/ghpvc/?username=omsingh02&style=flat-square&color=268bd2&label=Profile+Views" alt="Visitor Count" />
 </div>
