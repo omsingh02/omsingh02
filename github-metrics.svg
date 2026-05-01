@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.3625416800644" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="405.3625416800644" y="0" width="22.283241340990134" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="427.64578302105457" y="0" width="14.703687183701879" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.3494702047564" y="0" width="6.892009442313521" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.2414796470699" y="0" width="5.970712457924869" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.2121921049948" y="0" width="3.8024652557763594" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="459.01465736077114" y="0" width="0.5505315629503146" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="459.56518892372145" y="0" width="0.43481107627852383" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.5990894672508" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="405.5990894672508" y="0" width="22.209798121896693" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="427.80888758914745" y="0" width="14.629562733432161" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.4384503225796" y="0" width="6.8572653400497385" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.2957156626294" y="0" width="5.940612811956286" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.23632847458566" y="0" width="3.7832962104047634" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="459.01962468499045" y="0" width="0.5477562149066582" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="459.5673808998971" y="0" width="0.43261910010291155" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -102,7 +102,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 3 days
+                            Current streak 4 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2091,6 +2091,11 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.096774193548387 0,1.096774193548387 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.096774193548387 1.7,2.096774193548387 z"/>
                             </g>
+                            <g transform="translate(-6.8, 9.70967741935484)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.290322580645161 0,1.2903225806451613 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2903225806451613 1.7,2.290322580645161 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2112,7 +2117,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>omsingh02/copy-all-urls-extension</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This Chrome extension allows users to copy the URLs of all open tabs or selected tabs, and paste them to open new tabs. It's based on the original CopyAllURLs extension, with enhancements and custom features.</div>
@@ -2165,7 +2170,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>omsingh02/saand</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2210,7 +2215,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Apr 2026, 09:00:20 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2026, 09:09:39 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
