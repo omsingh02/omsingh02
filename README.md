@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **First-Year BTech CSE Student** at Galgotias University and a passionate advocate for **Free and Open Source Software (FOSS)** and **Digital Privacy**. I am currently working as the **Front End Lead** at `hawkeye.exe`.
+I am a **Second-Year BTech CSE Student** at Galgotias University and a passionate advocate for **Free and Open Source Software (FOSS)** and **Digital Privacy**. I am currently working as the **Front End Lead** at `hawkeye.exe`.
 
 I focus on building technology that respects user data while mastering the fundamentals of system-level programming and automation.
 
