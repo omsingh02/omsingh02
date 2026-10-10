@@ -1,73 +1,108 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Om%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=BTech%20CSE%20%7C%20FOSS%20&%20Privacy%20Advocate%20%7C%20Front%20End%20Lead&descAlignY=55&descAlign=50" alt="Om Singh Header" />
 
-  <a href="https://omsingh.me">
-    <img src="https://img.shields.io/badge/Portfolio-omsingh.me-blue?style=for-the-badge&logo=firefox" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/omsingh02">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@omsingh.me">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141311,100:8a6a3b&height=220&section=header&text=Om%20Singh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Useful%20software%3A%20tools%2C%20apps%2C%20and%20the%20occasional%20game&descAlignY=55&descAlign=50" alt="Om Singh: useful software, tools, apps, and the occasional game" width="100%" />
+
+<a href="https://omsingh.me"><img src="https://img.shields.io/badge/Portfolio-omsingh.me-8a6a3b?style=for-the-badge&labelColor=141311&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/omsingh02"><img src="https://img.shields.io/badge/LinkedIn-Connect-8a6a3b?style=for-the-badge&labelColor=141311&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:contact@omsingh.me"><img src="https://img.shields.io/badge/Email-Say_hi-8a6a3b?style=for-the-badge&labelColor=141311&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
 <br />
 
-### 👨‍💻 About Me
+### 👨‍💻 About
 
-I am a **Second-Year BTech CSE Student** at Galgotias University and a passionate advocate for **Free and Open Source Software (FOSS)** and **Digital Privacy**. I am currently working as the **Front End Lead** at `akolabs`.
+```console
+$ whoami
+om singh, cs student at galgotias university, greater noida
 
-I focus on building technology that respects user data while mastering the fundamentals of system-level programming and automation.
+$ cat values.txt
+free and open source software, digital privacy
 
-- 🔭 **I’m currently working on:** Deepening my understanding of C, Java, and System Automation.
-- 🐧 **I’m proficient in:** Bash scripting, Linux environments, and Python-based automation.
-- 🔐 **I believe in:** Digital privacy rights and open web standards.
-- 🎓 **Certifications:** Deloitte Cyber Job Simulation, Tata Cybersecurity Analyst.
+$ ls projects/
+telepad/  gatekeep/  leery/  musicvault/  hivectl/  bunny/
 
----
+$ cat status.txt
+looking for internships. write to me, I usually reply within a day.
 
-### 🛠️ Tech Stack & Tools
+$ curl -L omsingh.me   # my site, for terminals
+```
+
+### 🛠️ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css,bash,linux,git,github,vscode,termux" />
+  <img src="https://skillicons.dev/icons?i=rust,kotlin,ts,react,nextjs,nodejs,py,c,postgres,supabase,docker,threejs,linux,git" alt="Rust, Kotlin, TypeScript, React, Next.js, Node.js, Python, C, Postgres, Supabase, Docker, Three.js, Linux, Git" />
 </div>
 
----
+### 🚀 Selected work
 
-### 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://telepad-app.vercel.app">
+        <img src="https://github.com/omsingh02/telepad/raw/main/android/app/src/test/screenshots/remote-pad.png" width="150" alt="Telepad's touchpad screen" />
+        <img src="https://github.com/omsingh02/telepad/raw/main/android/app/src/test/screenshots/remote-keys-dark.png" width="150" alt="Telepad's keyboard screen in dark mode" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/omsingh02/telepad">Telepad</a></h3>
+      <b>Your phone, as your computer's trackpad.</b><br />
+      Turns an Android phone into a touchpad, keyboard and media remote for Windows, Linux and macOS, over Wi-Fi or Bluetooth. End-to-end encrypted, no account, no cloud.<br /><br />
+      <code>Kotlin</code> <code>Jetpack Compose</code> <code>Rust</code> <code>Noise protocol</code><br /><br />
+      <a href="https://telepad-app.vercel.app">Get the app</a> &nbsp;|&nbsp; <a href="https://github.com/omsingh02/telepad">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://gatekeep.omsingh.me">
+        <img src="https://github.com/omsingh02/gatekeep/raw/main/public/screenshots/delivery.png" width="320" alt="A Gatekeep delivery: its files, the people it was sent to, when each opened it and how many downloads they have left" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/omsingh02/gatekeep">Gatekeep</a></h3>
+      <b>Files, for exactly who you choose.</b><br />
+      Self-hosted file delivery. Each recipient gets their own access, every open and download is logged, and you can take access back even while their page is open.<br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Docker</code><br /><br />
+      <a href="https://gatekeep.omsingh.me">Site</a> &nbsp;|&nbsp; <a href="https://github.com/omsingh02/gatekeep">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://leery.omsingh.me">
+        <img src="https://omsingh.me/work/leery/mobile-table-780.webp" width="150" alt="Leery's table on a phone" />
+        <img src="https://omsingh.me/work/leery/mobile-bluff-780.webp" width="150" alt="A bluff being caught in Leery" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/omsingh02/leery">Leery</a></h3>
+      <b>A bluffing card game you can't cheat at.</b><br />
+      Lie about your cards, call out everyone else's, and be the first to empty your hand. Two to eight players, on any phone, with the rules enforced in Postgres.<br /><br />
+      <code>TypeScript</code> <code>Realtime</code> <code>Postgres</code><br /><br />
+      <a href="https://leery.omsingh.me">Play it</a> &nbsp;|&nbsp; <a href="https://github.com/omsingh02/leery">Source</a>
+    </td>
+  </tr>
+</table>
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Aura](https://github.com/omsingh02/aura)** | 🎵 **Real-Time Music Recognition & Voice Control.** A sophisticated TUI application integrating Shazam's fingerprinting, voice navigation, and high-quality downloads. | `Python` `ShazamIO` `Rich TUI` `Async/Await` |
-| **[Brop](https://github.com/omsingh02/brop)** | 📲 **Browser-to-Phone Sync.** A utility to sync URLs between Windows and Android via SSH/Termux, streamlining cross-device workflows. | `Python` `SSH` `Termux` `Automation` |
-| **[Sono](https://github.com/omsingh02/sono)** | 🔊 **Physics Simulation.** An interactive presentation exploring the sonometer, sound vibrations, and standing waves. | `TypeScript` `Web Audio API` `Physics` |
-| **[File-Share](https://github.com/omsingh02/file-share)** | 📂 **Web File Sharing.** A clean, efficient web application for sharing files seamlessly. | `TypeScript` `Web Dev` |
-| **[Bunny](https://github.com/omsingh02/bunny)** | 🐰 **Endless Runner.** A cute, browser-based endless adventure game. | `JavaScript` `Game Dev` |
+### 💿 B-sides
 
----
+Smaller things and first versions.
 
-### 📊 GitHub Analytics
+- **[MusicVault](https://omsingh.me/work/musicvault/)**: a music streaming service for one, with lyrics that scroll along.
+- **[hivectl](https://hivectl.vercel.app)**: lights every key of the Kreo Hive 98 on Linux, with a light show that moves with the music.
+- **[Bunny Runner](https://bunny.omsingh.me)**: a 3D endless runner in 31 KB. [Source](https://github.com/omsingh02/bunny).
+- **[Aura](https://github.com/omsingh02/aura)**: a terminal app that recognizes the song playing, takes voice commands and downloads tracks in high quality.
+- **[Sono](https://github.com/omsingh02/sono)**: an interactive physics presentation on sonometers and standing waves.
+- **[tempmail-watcher](https://github.com/omsingh02/tempmail-watcher)**: a CLI that waits for a verification email and copies the code or link to your clipboard.
 
-<div align="center">
-  <a href="https://github.com/omsingh02">
-    <img src="https://github.com/omsingh02/omsingh02/blob/main/github-metrics.svg" alt="Om's GitHub Metrics" width="100%">
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Achievements-Unlocked-ff0055?style=for-the-badge&logo=github&logoColor=white" alt="Achievements" />
+<details>
+  <summary><b>📊 GitHub stats</b></summary>
   <br />
-  <img src="https://img.shields.io/badge/Pull%20Shark-x2-4c1?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/YOLO-Committer-yellow?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Quickdraw-Smasher-critical?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=flat-square&logo=open-source-initiative" />
+  <img src="https://github.com/omsingh02/omsingh02/raw/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
+</details>
 
-  <br /><br />
-  
-  <p><i>"Building technology that respects users and their data."</i></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=omsingh02&style=flat-square&color=268bd2&label=Profile+Views" alt="Visitor Count" />
+<br />
+
+<div align="center">
+  <sub><i>Building technology that respects users and their data.</i></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141311,100:8a6a3b&height=100&section=footer" alt="" width="100%" />
 </div>
