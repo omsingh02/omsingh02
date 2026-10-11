@@ -65,26 +65,19 @@ Looking for internships. I usually reply within a day.
   </tr>
 </table>
 
-### 💿 B-sides
+## More
 
-Smaller things and first versions.
-
-- **[MusicVault](https://omsingh.me/work/musicvault/)**: a music streaming service for one, with lyrics that scroll along.
-- **[hivectl](https://hivectl.vercel.app)**: lights every key of the Kreo Hive 98 on Linux, with a light show that moves with the music.
-- **[Bunny Runner](https://bunny.omsingh.me)**: a 3D endless runner in 31 KB. [Source](https://github.com/omsingh02/bunny).
-- **[Aura](https://github.com/omsingh02/aura)**: a terminal app that recognizes the song playing, takes voice commands and downloads tracks in high quality.
-- **[Sono](https://github.com/omsingh02/sono)**: an interactive physics presentation on sonometers and standing waves.
-- **[tempmail-watcher](https://github.com/omsingh02/tempmail-watcher)**: a CLI that waits for a verification email and copies the code or link to your clipboard.
-
-<details>
-  <summary><b>📊 GitHub stats</b></summary>
-  <br />
-  <img src="https://github.com/omsingh02/omsingh02/raw/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
-</details>
+| | |
+|:--|:--|
+| **[gulms](https://github.com/omsingh02/gulms)** | Your university LMS from the terminal. Syncs courses, finds lectures, and turns slide decks into Markdown and PDF study notes. Rust. |
+| **[hark](https://github.com/omsingh02/hark)** | Always-on song recognition for Linux, published as an MPRIS2 player for Waybar, GNOME, KDE and playerctl. Rust. |
+| **[hivectl](https://hivectl.vercel.app)** | Per-key RGB, live animations and a music visualizer for the Kreo Hive 98 on Linux, straight over hidraw. Python. |
+| **[MusicVault](https://omsingh.me/work/musicvault/)** | A personal music cloud on free tiers, with a web player and an OpenSubsonic server. Invite-only. |
+| **[Bunny Runner](https://bunny.omsingh.me)** | A 3D endless runner in 31 KB. Three.js. |
+| **[tempmail-watcher](https://github.com/omsingh02/tempmail-watcher)** | A CLI that waits for a verification email and copies the code or link to your clipboard. |
 
 <br />
 
-<div align="center">
-  <sub><i>Building technology that respects users and their data.</i></sub>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141311,100:8a6a3b&height=100&section=footer" alt="" width="100%" />
-</div>
+<p align="center">
+  <sub>Greater Noida, India &nbsp;·&nbsp; <a href="https://omsingh.me">omsingh.me</a></sub>
+</p>
