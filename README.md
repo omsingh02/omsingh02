@@ -10,29 +10,11 @@
 
 <br />
 
-### 👨‍💻 About
+Second-year BTech CSE student at Galgotias University, Greater Noida. I build and ship open-source tools that ask little of the people using them: no account, no cloud, and rules enforced where they can't be skipped.
 
-```console
-$ whoami
-om singh, cs student at galgotias university, greater noida
+Looking for internships. I usually reply within a day.
 
-$ cat values.txt
-free and open source software, digital privacy
-
-$ ls projects/
-telepad/  gatekeep/  leery/  musicvault/  hivectl/  bunny/
-
-$ cat status.txt
-looking for internships. write to me, I usually reply within a day.
-
-$ curl -L omsingh.me   # my site, for terminals
-```
-
-### 🛠️ Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,kotlin,ts,react,nextjs,nodejs,py,c,postgres,supabase,docker,threejs,linux,git" alt="Rust, Kotlin, TypeScript, React, Next.js, Node.js, Python, C, Postgres, Supabase, Docker, Three.js, Linux, Git" />
-</div>
+<br />
 
 ### 🚀 Selected work
 
