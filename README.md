@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://omsingh.me">omsingh.me</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/omsingh02">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://blog.omsingh.me">Blog</a> &nbsp;·&nbsp;
   <a href="mailto:contact@omsingh.me">contact@omsingh.me</a>
 </p>
 
@@ -19,21 +20,6 @@ Looking for internships. I usually reply within a day.
 <table>
   <tr>
     <td width="42%" align="center" valign="middle">
-      <a href="https://telepad-app.vercel.app">
-        <img src="https://github.com/omsingh02/telepad/raw/main/android/app/src/test/screenshots/remote-pad.png" width="150" alt="Telepad's touchpad screen" />
-        <img src="https://github.com/omsingh02/telepad/raw/main/android/app/src/test/screenshots/remote-keys-dark.png" width="150" alt="Telepad's keyboard screen in dark mode" />
-      </a>
-    </td>
-    <td valign="middle">
-      <h3><a href="https://github.com/omsingh02/telepad">Telepad</a></h3>
-      <b>Your phone, as your computer's trackpad.</b><br />
-      An Android app with a desktop companion for Windows, Linux and macOS, over Wi-Fi or Bluetooth. Every touch is end-to-end encrypted, you confirm a fingerprint when you first pair, and there is no account and no cloud.<br /><br />
-      <sub>Kotlin · Jetpack Compose · Rust · Noise protocol · MIT · 6 releases</sub><br /><br />
-      <a href="https://telepad-app.vercel.app">Get the app</a> &nbsp;·&nbsp; <a href="https://github.com/omsingh02/telepad">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="42%" align="center" valign="middle">
       <a href="https://gatekeep.omsingh.me">
         <img src="https://github.com/omsingh02/gatekeep/raw/main/public/screenshots/delivery.png" width="320" alt="A Gatekeep delivery: its files, the people it was sent to, when each opened it and how many downloads they have left" />
       </a>
@@ -42,8 +28,23 @@ Looking for internships. I usually reply within a day.
       <h3><a href="https://github.com/omsingh02/gatekeep">Gatekeep</a></h3>
       <b>Files, for exactly who you choose.</b><br />
       Self-hosted file delivery. Each recipient signs in with their own email code or password, every open, download and denied attempt is logged, and you can take access back while their page is open.<br /><br />
-      <sub>Next.js · TypeScript · Supabase · Docker · MIT · 5 releases · CI and end-to-end tests</sub><br /><br />
+      <sub>Next.js · TypeScript · Supabase · Docker · MIT · CI and end-to-end tests</sub><br /><br />
       <a href="https://gatekeep.omsingh.me">Site</a> &nbsp;·&nbsp; <a href="https://github.com/omsingh02/gatekeep">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://beckon.omsingh.me">
+        <img src="https://github.com/omsingh02/beckon/raw/main/android/app/src/test/screenshots/remote-pad.png" width="150" alt="Beckon's touchpad screen" />
+        <img src="https://github.com/omsingh02/beckon/raw/main/android/app/src/test/screenshots/remote-keys-dark.png" width="150" alt="Beckon's keyboard screen in dark mode" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/omsingh02/beckon">Beckon</a></h3>
+      <b>Your phone, as your computer's trackpad.</b><br />
+      An Android app with a desktop companion for Windows, Linux and macOS, over Wi-Fi or Bluetooth. Every touch is end-to-end encrypted, you confirm a fingerprint or scan a QR code when you first pair, and there is no account and no cloud. Formerly Telepad.<br /><br />
+      <sub>Kotlin · Jetpack Compose · Rust · Noise protocol · MIT</sub><br /><br />
+      <a href="https://beckon.omsingh.me">Get the app</a> &nbsp;·&nbsp; <a href="https://github.com/omsingh02/beckon">Source</a>
     </td>
   </tr>
   <tr>
@@ -71,9 +72,9 @@ Looking for internships. I usually reply within a day.
 |:--|:--|
 | **[gulms](https://github.com/omsingh02/gulms)** | Your university LMS from the terminal. Syncs courses, finds lectures, and turns slide decks into Markdown and PDF study notes. Rust. |
 | **[hark](https://github.com/omsingh02/hark)** | Always-on song recognition for Linux, published as an MPRIS2 player for Waybar, GNOME, KDE and playerctl. Rust. |
-| **[hivectl](https://hivectl.vercel.app)** | Per-key RGB, live animations and a music visualizer for the Kreo Hive 98 on Linux, straight over hidraw. Python. |
-| **[MusicVault](https://omsingh.me/work/musicvault/)** | A personal music cloud on free tiers, with a web player and an OpenSubsonic server. Invite-only. |
-| **[Bunny Runner](https://bunny.omsingh.me)** | A 3D endless runner in 31 KB. Three.js. |
+| **[hivectl](https://github.com/omsingh02/hivectl)** | Per-key RGB, live animations and a music visualizer for the Kreo Hive 98 on Linux, straight over hidraw. Python. [Demo](https://hivectl.vercel.app). |
+| **[Reel](https://reel.omsingh.me)** | A private-first movie and TV watchlist with episode progress, stats and an MCP server. React, Supabase. |
+| **[Bunny Runner](https://bunny.omsingh.me)** | A 3D endless runner for the browser. About 31 KB of its own code. Three.js. |
 | **[tempmail-watcher](https://github.com/omsingh02/tempmail-watcher)** | A CLI that waits for a verification email and copies the code or link to your clipboard. |
 
 <br />
