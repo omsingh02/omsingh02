@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://omsingh.me">omsingh.me</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/omsingh02">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://blog.omsingh.me">Blog</a> &nbsp;·&nbsp;
+  <a href="https://omsingh.me/writings">Blog</a> &nbsp;·&nbsp;
   <a href="mailto:contact@omsingh.me">contact@omsingh.me</a>
 </p>
 
